@@ -1,3 +1,5 @@
+@import "~antd/dist/antd.css";
+
 body {
   margin: 0;
   padding: 0;
@@ -11,4 +13,16 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+tr.drop-over-downward td {
+  border-bottom: 2px dashed #1890ff;
+}
+
+tr.drop-over-upward td {
+  border-top: 2px dashed #1890ff;
+}
+
+.App {
+  padding: 24px;
 }
