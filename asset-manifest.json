@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/money-split/static/css/main.5fa4b151.chunk.css",
+    "main.js": "/money-split/static/js/main.74d51472.chunk.js",
+    "main.js.map": "/money-split/static/js/main.74d51472.chunk.js.map",
+    "runtime~main.js": "/money-split/static/js/runtime~main.b1173422.js",
+    "runtime~main.js.map": "/money-split/static/js/runtime~main.b1173422.js.map",
+    "static/css/2.4358233e.chunk.css": "/money-split/static/css/2.4358233e.chunk.css",
+    "static/js/2.c7bd1caa.chunk.js": "/money-split/static/js/2.c7bd1caa.chunk.js",
+    "static/js/2.c7bd1caa.chunk.js.map": "/money-split/static/js/2.c7bd1caa.chunk.js.map",
+    "index.html": "/money-split/index.html",
+    "precache-manifest.7725b1b2965cc2ec4e84473b3a6b05b4.js": "/money-split/precache-manifest.7725b1b2965cc2ec4e84473b3a6b05b4.js",
+    "service-worker.js": "/money-split/service-worker.js",
+    "static/css/2.4358233e.chunk.css.map": "/money-split/static/css/2.4358233e.chunk.css.map",
+    "static/css/main.5fa4b151.chunk.css.map": "/money-split/static/css/main.5fa4b151.chunk.css.map"
+  }
+}
