@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97185b40a7fe14be0ca4d351aa395ba0",
+    "revision": "82875c53627eb3f21a3211e93375fc2f",
     "url": "/money-split/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/money-split/static/css/2.4358233e.chunk.css"
   },
   {
-    "revision": "ad5b8ea3024679483fef",
+    "revision": "4f976f38b8bab540a440",
     "url": "/money-split/static/css/main.5fa4b151.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/money-split/static/js/2.c7bd1caa.chunk.js"
   },
   {
-    "revision": "ad5b8ea3024679483fef",
-    "url": "/money-split/static/js/main.74d51472.chunk.js"
+    "revision": "4f976f38b8bab540a440",
+    "url": "/money-split/static/js/main.15d238b1.chunk.js"
   },
   {
     "revision": "94ddc1487700c8ef6a05",
