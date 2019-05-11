@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/money-split/static/css/main.5fa4b151.chunk.css",
-    "main.js": "/money-split/static/js/main.15d238b1.chunk.js",
-    "main.js.map": "/money-split/static/js/main.15d238b1.chunk.js.map",
+    "main.js": "/money-split/static/js/main.f82f1750.chunk.js",
+    "main.js.map": "/money-split/static/js/main.f82f1750.chunk.js.map",
     "runtime~main.js": "/money-split/static/js/runtime~main.b1173422.js",
     "runtime~main.js.map": "/money-split/static/js/runtime~main.b1173422.js.map",
     "static/css/2.4358233e.chunk.css": "/money-split/static/css/2.4358233e.chunk.css",
     "static/js/2.c7bd1caa.chunk.js": "/money-split/static/js/2.c7bd1caa.chunk.js",
     "static/js/2.c7bd1caa.chunk.js.map": "/money-split/static/js/2.c7bd1caa.chunk.js.map",
     "index.html": "/money-split/index.html",
-    "precache-manifest.74138f03959575b46db06f41e5a0eaf0.js": "/money-split/precache-manifest.74138f03959575b46db06f41e5a0eaf0.js",
+    "precache-manifest.7ec09671d706db2e3fb6364e9e4e042d.js": "/money-split/precache-manifest.7ec09671d706db2e3fb6364e9e4e042d.js",
     "service-worker.js": "/money-split/service-worker.js",
     "static/css/2.4358233e.chunk.css.map": "/money-split/static/css/2.4358233e.chunk.css.map",
     "static/css/main.5fa4b151.chunk.css.map": "/money-split/static/css/main.5fa4b151.chunk.css.map"

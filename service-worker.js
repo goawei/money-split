@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/money-split/precache-manifest.74138f03959575b46db06f41e5a0eaf0.js"
+  "/money-split/precache-manifest.7ec09671d706db2e3fb6364e9e4e042d.js"
 );
 
 self.addEventListener('message', (event) => {
