@@ -102,7 +102,7 @@ class DataContainer extends React.Component<{}, IDataContainerState> {
         const id = data1.map((row: dataProps) => row.id).reduce((a: any, b: any) => b >= a ? b : a, 0) + 1;
         const row: dataProps[] = [{
             id,
-            item: `Item ${data1.length + 1}`,
+            item: `Item ${id}`,
             amount: 0,
             currency: 'HKD'
         }];
@@ -113,7 +113,7 @@ class DataContainer extends React.Component<{}, IDataContainerState> {
         const id = data2.map((row: dataProps) => row.id).reduce((a: any, b: any) => b >= a ? b : a, 0) + 1;
         const row: dataProps[] = [{
             id,
-            item: `Item ${data2.length + 1}`,
+            item: `Item ${id}`,
             amount: 0,
             currency: 'HKD'
         }];
@@ -140,10 +140,10 @@ class DataContainer extends React.Component<{}, IDataContainerState> {
             person2[spending.currency] += spending.amount;
             person2.total += spending.currency === "HKD" ? spending.amount : Math.round(spending.amount*100/exchangeRate)/100;
         });
-        let total: number = person1.total + person2.total;
+        let total: number = Math.round((person1.total + person2.total)*100)/100;
         let each: number = Math.round(total*50)/100;
-        person1.owe = total/2 - person1.total;
-        person2.owe = total/2 - person2.total;
+        person1.owe = Math.round((total/2 - person1.total)*100)/100;
+        person2.owe = Math.round((total/2 - person2.total)*100)/100;
         // return [person1, person2];
         return {
             tableData: [person1, person2],
